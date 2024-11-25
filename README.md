@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Do Cong Tuan Hung
-* Student ID: 22Bi13181
+* Student Name: Nguyen Dung
+* Student ID: 22BI13104
 * Student Group ID: Not-for-now
